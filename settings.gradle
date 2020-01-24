@@ -1,0 +1,5 @@
+rootProject.name = 'springboot-test-automation-selenide'
+include 'springboot-test-automation-selenide'
+include 'mobile-web'
+include 'desktop-web'
+
